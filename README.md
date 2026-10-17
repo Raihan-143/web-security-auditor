@@ -28,5 +28,8 @@ This tool automates compliance auditing by inspecting HTTP response headers and 
 
 1. Clone repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<USERNAME>/<REPO_NAME>.git
+   git clone [https://github.com/Raihan-143/web-security-auditor.git]
    cd web-security-auditor
+
+## Author 
+Md Raihan Hasan Rana - Cybersecurity Enthusiast   
